@@ -7,6 +7,7 @@ public class Gato {
 	private String nome;
 	private String cor;
 	private Integer idade;
+	
 	public Gato(String nome, String cor, Integer idade) {
 		super();
 		this.nome = nome;
